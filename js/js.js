@@ -23,7 +23,7 @@ $("#pic4").click(function(){
 })
 
 $("#pic5").click(function(){
-	$(".mainblack").attr("src","img/fl.jpg");
+	$(".mainblack").attr("src","img/img/fl.jpg");
 	$(".black").toggle(100);
 	$(".main").fadeOut(100);
 })
@@ -53,13 +53,13 @@ $("#pic9").click(function(){
 })
 
 $("#pic10").click(function(){
-	$(".mainblack").attr("src","img/xzt.jpg");
+	$(".mainblack").attr("src","img/img/xzt.jpg");
 	$(".black").toggle(100);
 	$(".main").fadeOut(100);
 })
 
 $("#pic11").click(function(){
-	$(".mainblack").attr("src","img/cc.jpg");
+	$(".mainblack").attr("src","img/img/cc.jpg");
 	$(".black").toggle(100);
 	$(".main").fadeOut(100);
 })
